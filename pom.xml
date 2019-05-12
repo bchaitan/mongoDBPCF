@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.navyaa.mongoDBPCF</groupId>
-	<artifactId>demo</artifactId>
+	<artifactId>mongoDBPCF</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>mongoDBPCF</name>
 	<description>Demo project for Spring Boot, MongoDB and PCF</description>
