@@ -1,4 +1,4 @@
-package com.navyaa.mongoDBPCF.demo;
+package com.navyaa.mongoDBPCF.demo.model;
 
 public class Person {
 	private Long id;

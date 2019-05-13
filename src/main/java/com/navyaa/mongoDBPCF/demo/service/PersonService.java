@@ -6,7 +6,7 @@ import java.util.stream.Collectors;
 
 import org.springframework.stereotype.Service;
 
-import com.navyaa.mongoDBPCF.demo.Person;
+import com.navyaa.mongoDBPCF.demo.model.Person;
 
 @Service
 public class PersonService {
